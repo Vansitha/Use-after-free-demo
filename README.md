@@ -8,5 +8,5 @@ Step 2 - Run the program
 
 ./uaf_demo
 
-Reference:
+Reference and link to original repo:
 Rory. M. (2020) you-me-and-uaf [Repository name]. Github. https://github.com/roddux/you-me-and-uaf
