@@ -6,7 +6,7 @@
  * REFERENCE: ADD THE REFERENCE HERE
  * COMMENTS: This programs solely belong to @roddux GitHub user.
  * 			 Used for demonstartion purposely only. 
- * 			 Modified print statements and commented by Vansitha Ratnayake.
+ * 			 Modified print statements and each step commented by Vansitha Ratnayake.
  * REQUIRES: None
  * LAST MOD: 11/10/2022
  */
