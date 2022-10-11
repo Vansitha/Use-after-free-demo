@@ -3,10 +3,10 @@
  * AUTHOR: Rory M [Github username: roddux]
  * UNIT: Cyber Crime and Security Enhanced Programming ISEC3004
  * PURPOSE: To demonstrate use after free vulnerability
- * REFERENCE: ADD THE REFERENCE HERE
+ * REFERENCE: Rory. M. (2020) you-me-and-uaf [Repository name]. Github. https://github.com/roddux/you-me-and-uaf
  * COMMENTS: This programs solely belong to @roddux GitHub user.
  * 			 Used for demonstartion purposely only. 
- * 			 Modified print statements and commented by Vansitha Ratnayake.
+ * 			 Modified print statements, commented and patched by Vansitha Ratnayake.
  * REQUIRES: None
  * LAST MOD: 11/10/2022
  */
